@@ -43,5 +43,5 @@ Honestly, I have no idea. But, none of technologies I used was forbidden and I d
 I could, I wanted it to be a challange. 
 3. **Why is it slow?**
 Nightingale is not slow, I tried to write most optimized code. But downloading and information gathering part could proccess slowly in your computer, that is because your internet connection. 
-4. **Why is it stop downloading suddenly?**
+4. **Why does it stop downloading suddenly?**
 Again, I have no idea. It is probably because of [youtube_dl](https://youtube-dl.readthedocs.io/en/latest/), If it stops for a while you can make it continue with ctrl+c hotkey.
