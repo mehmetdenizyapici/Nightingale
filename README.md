@@ -7,9 +7,9 @@
 ***
 Nightingale is a program that allows you to download songs from your favorite playlist
 ### Screenshot
-![Screen Shot - 1](https://github.com/Qrn3/Nightingale/blob/main/Screen%20Shots/screenshot%20%20(1).png)
-![Screen Shot - 2](https://github.com/Qrn3/Nightingale/blob/main/Screen%20Shots/screenshot%20%20(2).png)
-![Screen Shot - 3](https://github.com/Qrn3/Nightingale/blob/main/Screen%20Shots/screenshot%20%20(1).png)
+![Screen Shot - 1](https://github.com/Qrn3/Nightingale/blob/main/Screen%20Shoots/screenshot%20%20(1).png)
+![Screen Shot - 2](https://github.com/Qrn3/Nightingale/blob/main/Screen%20Shoots/screenshot%20%20(2).png)
+![Screen Shot - 3](https://github.com/Qrn3/Nightingale/blob/main/Screen%20Shoots/screenshot%20%20(1).png)
 ## Technologies
 ***
 A list of technologies used within the project:
